@@ -104,6 +104,17 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-c15e31) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [seedream-5-0-flash-prompts-cn](https://github.com/jikbtcp30/seedream-5-0-flash-prompts-cn)
+- **Same model, other languages** — 9 more language builds: Deutsch `seedream-5-0-flash-api-de` · Español [seedream-5-0-flash-api-es](https://github.com/w4c1mqh4329/seedream-5-0-flash-api-es) · Français `seedream-5-0-flash-api-fr` · Relay/gateway `seedream-5-0-flash-api-gateway` · Bahasa `seedream-5-0-flash-api-id` · 日本語 `seedream-5-0-flash-api-ja` · 한국어 `seedream-5-0-flash-api-ko` · Português `seedream-5-0-flash-api-pt` · Русский [seedream-5-0-flash-api-ru](https://github.com/ac0y48cgee/seedream-5-0-flash-api-ru)
+- **More models in this language** — [midjourney-api-cn](https://github.com/apimartycl6k972t/midjourney-api-cn) · [gemini-2-5-flash-image-preview-api-cn](https://github.com/hm-5j/gemini-2-5-flash-image-preview-api-cn) · [nano-banana-api-cn](https://github.com/mpflv/nano-banana-api-cn) · [gemini-3-1-flash-image-preview-api-cn](https://github.com/utp00/gemini-3-1-flash-image-preview-api-cn) · [nano-banana-2-api-cn](https://github.com/i3hxnu6/nano-banana-2-api-cn) · [gemini-3-pro-image-preview-api-cn](https://github.com/vd0tv42d/gemini-3-pro-image-preview-api-cn)
+- **Topic hubs** — every build of this model, all languages: [seedream-5-0-flash](https://github.com/topics/seedream-5-0-flash) · [seedream-5-0-flash-api](https://github.com/topics/seedream-5-0-flash-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
